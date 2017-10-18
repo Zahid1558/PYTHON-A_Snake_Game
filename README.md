@@ -1,5 +1,7 @@
 # PYTHON-A_Snake_Game
-a simple snake game called "python" made with c++ without using classes and oop
+//a simple snake game called "python" made with c++ without using classes and oop
+
+
 #include <iostream>
 #include <conio.h>
 #include <windows.h>
